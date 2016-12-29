@@ -78,6 +78,7 @@ class DataNotificationApp: Object {
     
     class func test() {
         //abcdddddd
+        //1213412423453
     }
     
     func updateData(){
