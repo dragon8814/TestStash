@@ -75,4 +75,8 @@ class DataNotificationApp: Object {
             completionHandler()
         }
     }
+    
+    class func test() {
+        
+    }
 }
