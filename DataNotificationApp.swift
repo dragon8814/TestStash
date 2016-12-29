@@ -77,6 +77,12 @@ class DataNotificationApp: Object {
     }
     
     class func test() {
-        
+    }
+    
+    func updateData(){
+        let realm = try! Realm()
+        try! realm.write {
+            realm.add(self, update: true)
+        }
     }
 }
