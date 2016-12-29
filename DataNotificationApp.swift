@@ -18,7 +18,6 @@ class DataNotificationApp: Object {
     dynamic var share : String = ""
     dynamic var badge : Int = 0
     dynamic var screen_id: Int = 0
-//    dynamic var dataObject: NSDictionary = [:]
     dynamic var isUpload = false
     
     func save() -> Void {
