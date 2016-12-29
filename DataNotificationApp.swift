@@ -77,6 +77,7 @@ class DataNotificationApp: Object {
     }
     
     class func test() {
+        //abcdddddd
     }
     
     func updateData(){
