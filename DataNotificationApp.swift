@@ -85,4 +85,8 @@ class DataNotificationApp: Object {
             realm.add(self, update: true)
         }
     }
+    
+    class func tessssst() {
+        
+    }
 }
